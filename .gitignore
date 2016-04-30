@@ -1,0 +1,8 @@
+/Cameras_classroom/
+/Final_code_test/
+/log/
+/seil_proxy_2_old/
+/db_writer/log/
+*.py~
+*.pyc
+*.sh~
